@@ -4,7 +4,7 @@
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "5fb1f41a2ae89e5dc0a643f134c0e2e3",
+    "hash": "2e3afdf02948544094af904126730f2a",
     "packages": [
         {
             "name": "contao-community-alliance/backports-initialize-system",
@@ -266,7 +266,6 @@
                 }
             ],
             "description": "A library for encoding and decoding internationalized domain names.",
-            "abandoned": "mabrahamde/idna-converter",
             "time": "2014-05-17 19:04:55"
         },
         {
@@ -300,7 +299,6 @@
                 }
             ],
             "description": "A comprehensive library for generating differences between two hashable objects (strings or arrays).",
-            "abandoned": "phpspec/php-diff",
             "time": "2014-10-21 12:48:52"
         },
         {
