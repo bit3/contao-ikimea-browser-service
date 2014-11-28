@@ -1,0 +1,6 @@
+{
+    "name": "bit3/contao-ikimea-browser-service",
+    "description": "Ikimea browser detection as a service.",
+    "type": "contao-module",
+    "license": "MIT"
+}
