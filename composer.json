@@ -1,10 +1,16 @@
 {
-    "name": "bit3/contao-ikimea-browser-service",
+    "name": "contao-community-alliance/ikimea-browser-service",
     "description": "Ikimea browser detection as a service.",
     "type": "contao-module",
     "license": "MIT",
-    "homepage": "https://github.com/bit3/bit3-contao-ikimea-browser-service",
+    "homepage": "https://github.com/contao-community-alliance/ikimea-browser-service",
     "authors": [
+        {
+            "name": "David Molineus",
+            "email": "david.molineus@netzmacht.de",
+            "homepage": "http://netzmacht.de",
+            "role": "Developer"
+        },
         {
             "name": "Tristan Lins",
             "email": "tristan.lins@bit3.de",
@@ -13,10 +19,9 @@
         }
     ],
     "support": {
-        "email": "info@bit3.de",
-        "issues": "https://github.com/bit3/contao-ikimea-browser-service/issues",
+        "issues": "https://github.com/contao-community-alliance/ikimea-browser-service/issues",
         "irc": "irc://irc.freenode.org/contao.dev",
-        "source": "https://github.com/bit3/contao-ikimea-browser-service"
+        "source": "https://github.com/contao-community-alliance/ikimea-browser-service"
     },
     "require": {
         "php": ">=5.3.2",
@@ -26,9 +31,7 @@
         "ikimea/browser": "~1.0"
     },
     "require-dev": {
-        "contao-community-alliance/coding-standard": "~1.0",
-        "contao-community-alliance/build-system": "~1.0",
-        "contao-community-alliance/build-system-all-tasks": "~1.0"
+        "phpcq/all-tasks": "~1.0"
     },
     "minimum-stability": "dev",
     "prefer-stable": true,
