@@ -33,6 +33,9 @@
   "require-dev": {
     "phpcq/all-tasks": "~1.0"
   },
+  "replace": {
+    "bit3/contao-ikimea-browser-service": "self.version"
+  },
   "minimum-stability": "dev",
   "prefer-stable": true,
   "extra": {
