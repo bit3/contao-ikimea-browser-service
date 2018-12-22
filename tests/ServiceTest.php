@@ -21,10 +21,12 @@
 
 namespace Bit3\Contao\IkimeaBrowserService\Test;
 
+use PHPUnit\Framework\TestCase;
+
 /**
  * Test if the service is registered properly.
  */
-class ServiceTest extends \PHPUnit_Framework_TestCase
+class ServiceTest extends TestCase
 {
     /**
      * Test registration of the service.
